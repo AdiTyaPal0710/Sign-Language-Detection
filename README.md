@@ -42,3 +42,13 @@ pip install -r requirements.txt
 1. Ensure your webcam is connected to your computer.
 2. Run the `sign_language_detection.py` script:
 
+3. The webcam feed will open, and the detected sign language gestures will be displayed in real-time.
+
+## Contributing
+
+Contributions to this project are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
